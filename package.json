@@ -1,5 +1,5 @@
 {
-  "name": "@frctl/mandelbrot",
+  "name": "@rskaggs/mandelbrot",
   "version": "1.0.7",
   "description": "The default theme for Fractal.",
   "main": "index.js",
